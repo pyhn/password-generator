@@ -1,0 +1,17 @@
+Author: Reimark Ronabio
+Project: Password generator
+
+Goals: 
+    - Refresh knowledge on python through use of random library and functions
+    - Learn tkinter library to create basic GUI
+
+Bugs: 
+    - generated passwords are not centered dispite using grid cords
+    - as a result, label, entry box, and button are slighty shifted to the left
+      
+References:
+    - Highlightable text: https://stackoverflow.com/questions/1602106/in-pythons-tkinter-how-can-i-make-a-label-such-that-you-can-select-the-text-wi
+
+    - Updating scroll bar: https://gist.github.com/josephhutch/5fafbbe66db2e695a246fa99306b0420
+
+
