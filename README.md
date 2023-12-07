@@ -19,7 +19,7 @@ This Python script implements a simple password generator with a graphical user 
 1. Ensure you have Python installed on your system.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/pyhn/password-generator.git
    cd password-generator
    ```
 3. Run the script:
